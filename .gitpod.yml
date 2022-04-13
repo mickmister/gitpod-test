@@ -1,1 +1,4 @@
 mainConfiguration: https://github.com/sinansonmez/mattermost-gitpod-config
+additionalRepositories:
+  - url: https://github.com/mickmister/gitpod-test
+    checkoutLocation: gitpod-test
